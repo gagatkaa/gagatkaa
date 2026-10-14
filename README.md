@@ -1,18 +1,18 @@
 # Hi, I'm Agata 👋
 
-**UI/UX designer & frontend developer** — 3rd-year Digital Design & Development student at [Howest DEVINE](https://www.devine.be/) in Kortrijk, Belgium.
+**UI/UX designer & frontend developer** - 3rd-year Digital Design & Development student at [Howest DEVINE](https://www.devine.be/) in Kortrijk, Belgium.
 
 I design digital products in Figma and build them in code — from user flows and interfaces to interactive, motion-rich frontends.
 
-🔎 **Looking for an internship from 15 February – 21 May 2027** (UI/UX, product design or frontend). Open to relocating.
+**Looking for an internship from 15 February – 21 May 2027** (UI/UX, product design or frontend). Open to relocating.
 
-🌐 **Portfolio:** [gagatkaa.github.io/porfolio3.0](https://gagatkaa.github.io/porfolio3.0/)
-💼 **LinkedIn:** [agata-tomaszewska](https://www.linkedin.com/in/agata-tomaszewska-136a66249)
-✉️ **Email:** atomaszewska361@gmail.com
+**Portfolio:** [gagatkaa.github.io/porfolio3.0](https://gagatkaa.github.io/porfolio3.0/)
+**LinkedIn:** [agata-tomaszewska](https://www.linkedin.com/in/agata-tomaszewska-136a66249)
+**Email:** atomaszewska361@gmail.com
 
 ---
 
-## 🛠 What I work with
+## What I work with
 
 **Design** · Figma · UI/UX · wireframing & prototyping · visual identity · Adobe Creative Suite
 **Frontend** · HTML · CSS · JavaScript · React · Astro · GSAP · Git
@@ -20,7 +20,7 @@ I design digital products in Figma and build them in code — from user flows an
 
 ---
 
-## ⭐ Selected projects
+## Selected projects
 
 | Project | What it is | Built with |
 |---|---|---|
