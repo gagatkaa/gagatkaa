@@ -2,7 +2,7 @@
 
 **UI/UX designer & frontend developer** - 3rd-year Digital Design & Development student at [Howest DEVINE](https://www.devine.be/) in Kortrijk, Belgium.
 
-I design digital products in Figma and build them in code — from user flows and interfaces to interactive, motion-rich frontends.
+I design digital products in Figma and build them in code - from user flows and interfaces to interactive, motion-rich frontends.
 
 **Looking for an internship from 15 February – 21 May 2027** (UI/UX, product design or frontend). Open to relocating.
 
